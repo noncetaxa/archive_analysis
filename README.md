@@ -1,6 +1,6 @@
 # archive_analysis
 
- archive.today 에 아카이브된 사이트 자료를 다운로드 받는다
+ 크롤러: archive.today 에 아카이브된 사이트 자료를 다운로드 받는다
 
 - 스냅샷의 목록을 추출해서 tsv 파일로 저장한다
 - selenium + chrome을 통해 스냅샷 압축 파일(.zip)을 다운로드 받는다.
